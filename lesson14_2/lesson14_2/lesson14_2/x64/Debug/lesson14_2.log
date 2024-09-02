@@ -1,0 +1,5 @@
+﻿  lesson14_2.cpp
+C:\Users\ASUS\source\repos\lesson14_2\lesson14_2\lesson14_2.cpp(5,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\lesson14_2\lesson14_2\lesson14_2.cpp(208,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\lesson14_2\lesson14_2\lesson14_2.cpp(14,1): warning C4715: 'bigger': not all control paths return a value
+  lesson14_2.vcxproj -> C:\Users\ASUS\source\repos\lesson14_2\lesson14_2\x64\Debug\lesson14_2.exe
